@@ -12,10 +12,6 @@
 
 Заметки хранятся в памяти, пока работает приложение.
 
-## Скриншоты
-
-[Список заметок](screenshots/list.png) · [Полный текст](screenshots/view.png) · [Редактирование](screenshots/edit.png) · [Свайп влево](screenshots/delete.png) · [Свайп вправо](screenshots/unstar.png)
-
 ## Запуск
 
 ```sh
